@@ -7,7 +7,7 @@
 
 ## Work Experience
 **Lead Product Engineer @ CrimsonLogic Pte Ltd, Singapore (_September 2021 - Present_)**
-- Led a cross-functional team of 5 engineers in the development of a Digital Service Provider, resulting in a 75% improvement in product performance. 
+- Led a cross-functional team in the development of a Digital Service Provider, resulting in a 75% improvement in product performance. 
 - Collaborated with product managers to define and prioritize feature enhancements, leading to a reduction in development cycle time and a 50% increase in customer satisfaction. 
 - Conducted code reviews and implemented best practices, resulting in a 50% reduction in post-release defects and improved code quality. 
 - Implemented Azure CI/CD pipelines, reducing deployment times by 100% and enhancing the overall development process. 
