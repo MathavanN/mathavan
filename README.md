@@ -3,7 +3,7 @@
 #### Technical Skills: ASP.NET Core, C#, SQL, Azure, JavaScript, TypeScript
 
 ## Education			        		
-- Bachelor of Engineer, Computer Science | Anna University of Technology (_2008-2012_)
+- B.E, Computer Science | Anna University of Technology (_2008-2012_)
 
 ## Work Experience
 **Lead Product Engineer @ CrimsonLogic Pte Ltd, Singapore (_September 2021 - Present_)**
