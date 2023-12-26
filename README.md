@@ -1,6 +1,12 @@
 # Lead Software Engineer
 
-#### Technical Skills: ASP.NET Core, C#, SQL, Azure, JavaScript, TypeScript
+## Skills
+#### Programming Languages: C#, JavaScript, TypeScript,HTML5, CSS, SQL, NoSQL
+#### Frameworks: ASP.NET, ASP.NET Core, React, Entity Framework.Core, EntityFramework, RESTfull API, NodeJS
+#### Database Management: MSSQL, Oracle, MySQL, MongoDB, Redis
+#### Cloud: Azure
+#### Others: Linux, JSON, XML, XSLT, LINQ, Nginx, Git, GitHub, Kafka, RabbitMQ, Swagger, SignalR, WebSocket, Postman, VS Studio 2022, XUnit, VS Code, Redux, Mobx, Redux-toolkit, Directus
+
 
 ## Education			        		
 - B.E, Computer Science - Anna University of Technology (_2008-2012_)
